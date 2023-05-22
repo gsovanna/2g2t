@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.menu {
+    width: 100%;
+    height: 60px;
+    background-color: bisque;
+}
+
+.conteudo {
+    width: 100%;
+    background-color: rgba(119, 230, 230, 0.541);
+}
+
+.rodape {
+    background-color: rgb(235, 137, 235);
+    width: 100%;
+}
+
+.info-cinema {
+    width: 100%;
+    background-color: ;
+}
+.info-filme {
+    width: 100%;
+    background-color: ;
+}
+.info-retro {
+    width: 100%;
+    background-color: ;
+}
+.info-filme-retro {
+    width: 100%;
+    background-color: ;
+}
+.info-destaque {
+    width: 100%;
+    background-color: ;
+}
