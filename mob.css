@@ -129,3 +129,13 @@ header{
         display: grid;
     }
 }
+.menu li {
+    float: left;
+}
+.menu a: :hover {
+     background-color: transparent;
+     color: var(--cor-hover);
+}
+.hamb {
+    display: none;
+}
